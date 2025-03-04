@@ -1,15 +1,13 @@
-<p align="right" style="margin-top: -50px;">
-  <img src="https://github.com/user-attachments/assets/3274b451-796f-46be-9b7b-4a7066ab6dc0" width="450">
-</p>
+# Hi 👋, I'm Priyanka P
 
-<p align="center">
-  <h1>Hi 👋, I'm Priyanka</h1>
-  <p>A passionate Web Developer from India.</p>
+### A passionate Web developer 
 
-  - 🌱 I’m currently learning **React, Node.js, MongoDB**  
-  - 💬 Ask me about **Web Development & JavaScript**  
-  - 📫 How to reach me: **priyanka@example.com**  
-</p>
+<img src="https://github.com/user-attachments/assets/3274b451-796f-46be-9b7b-4a7066ab6dc0" width="250" align="right">
+
+- 🌱 I’m currently learning **React, Node.js, and MongoDB**
+- 💬 Ask me about **Web Development & JavaScript**
+- 📫 How to reach me **priyankaachary098@gmail.com**
+- ⚡ Fun fact: **I love coding late at night!**
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Priyankaachary098)

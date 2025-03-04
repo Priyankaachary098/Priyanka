@@ -1,7 +1,7 @@
 # Hi 👋, I'm Priyanka P
 
 ### A passionate Web developer 
-<p align="right" style="margin-top: -50px;">
+<p align="right" style="margin-top: -100px;">
 <img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="450" align="right">
   </p>
 

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Priyanka P
+<h1 align="center">Hi👋, I'm Priyanka</h1>
 
 ### A passionate Web developer 
 

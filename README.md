@@ -4,7 +4,7 @@
 
 
 <p align="right" style="margin-top: -250px;">
-<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="450" align="right">
+<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="500" align="right">
   </p>
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**

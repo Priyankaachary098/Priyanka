@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Priyanka P</h1>
+<p align="right" style="margin-top: -50px;">
+  <img src="https://user-images.githubusercontent.com/your-image.png" width="450">
+</p>
 
-### A passionate Web developer 
+<p align="center">
+  <h1>Hi 👋, I'm Priyanka</h1>
+  <p>A passionate Web Developer from India.</p>
 
-<p align="right" style="margin-top: -250px;">
-<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="450" align="center">
-  </p>
-
-- 🌱 I’m currently learning **React, Node.js, and MongoDB**
-- 💬 Ask me about **Web Development & JavaScript**
-- 📫 How to reach me **priyankaachary098@gmail.com**
+  - 🌱 I’m currently learning **React, Node.js, MongoDB**  
+  - 💬 Ask me about **Web Development & JavaScript**  
+  - 📫 How to reach me: **priyanka@example.com**  
+</p>
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Priyankaachary098)

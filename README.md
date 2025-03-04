@@ -2,6 +2,8 @@
 
 ### A passionate Web developer 
 
+<img src="https://user-images.githubusercontent.com/your-image.png" width="250" align="right">
+
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 - 💬 Ask me about **Web Development & JavaScript**
 - 📫 How to reach me **priyankaachary098@gmail.com**

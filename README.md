@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 - 💬 Ask me about **Web Development & JavaScript**
 - 📫 How to reach me **priyankaachary098@gmail.com**
-- ⚡ Fun fact: **I love coding late at night!**
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Priyankaachary098)

@@ -1,10 +1,9 @@
-# Hi 👋, I'm Priyanka P
+<h1 align="center">Hi 👋, I'm Priyanka P</h1>
 
 ### A passionate Web developer 
 
-
 <p align="right" style="margin-top: -250px;">
-<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="500" align="right">
+<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="450" align="center">
   </p>
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**

@@ -1,8 +1,9 @@
 # Hi 👋, I'm Priyanka P
 
 ### A passionate Web developer 
-
-<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="250" align="right">
+<center>
+<img src=https://github.com/user-attachments/assets/3d98565e-57f9-4234-94fb-ed3f9a66d246 width="400">
+</center>
 
 - 🌱 I’m currently learning **React, Node.js, and MongoDB**
 - 💬 Ask me about **Web Development & JavaScript**
